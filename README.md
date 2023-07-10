@@ -6,7 +6,7 @@ Physicist specializing in data analysis and engineering, with a keen focus on Go
 
 ---
 
-### 🧰 Languages and Tools
+### 💼 Languages and Tools
 
 <img align="left" alt="Google Cloud Platform" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
