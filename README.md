@@ -25,9 +25,3 @@ Physicist specializing in data analysis and engineering, with a keen focus on Go
 <br />
 
 #
-
-### 📊 Stats
-
-![BrownLlama's GitHub stats](https://github-readme-stats.vercel.app/api?username=brownLlama&show_icons=true&theme=gruvbox)
-
-#
