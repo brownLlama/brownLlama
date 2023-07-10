@@ -1,6 +1,6 @@
 # 🦙 Brown Llama
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**` Analytics Engineer `**
 
 Physicist specializing in data analysis and engineering, with a keen focus on Google Cloud Platform (GCP). As a problem solver at heart, I thrive on applying my expertise in SQL, Python, and Linux to build and maintain pipelines, perform data analysis, and delve into data engineering. Combining my reserved nature as a physics enthusiast with my natural ability to communicate, I strive to bridge the gap between complex concepts and clear understanding. Join me as I navigate the intricate world of data and technology, bringing my analytical skills and passion for exploration to the forefront. Let's embark on this exciting journey together!
 
@@ -22,14 +22,3 @@ Physicist specializing in data analysis and engineering, with a keen focus on Go
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
