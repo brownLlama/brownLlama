@@ -28,7 +28,7 @@ Physicist specializing in data analysis and engineering, with a keen focus on Go
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=brownLlama&show_icons=true&theme=gruvbox)
+![BrownLlama's GitHub stats](https://github-readme-stats.vercel.app/api?username=brownLlama&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
