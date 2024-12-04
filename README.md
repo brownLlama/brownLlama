@@ -8,4 +8,4 @@ Physicist specializing in data analysis and engineering, with a keen focus on Go
 
 ### 💼 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=gcp,mysql,python,git,docker,markdown,neovim,bash,vscode,,latex,linux)
+![My Skills](https://skillicons.dev/icons?i=gcp,mysql,python,git,docker,markdown,bash,linux,neovim,vscode,latex)
